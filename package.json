@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint presets for npm's coding style",
   "keywords": [
     "eslint",
@@ -19,6 +19,8 @@
   },
   "bugs": "https://github.com/impinball/eslint-config-npm/issues",
   "homepage": "https://github.com/impinball/eslint-config-npm",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "repository": "impinball/eslint-config-npm"
 }
