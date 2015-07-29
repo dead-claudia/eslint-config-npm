@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-npm",
+  "version": "1.0.0",
+  "description": "ESLint presets for npm's coding style",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "config",
+    "npm",
+    "coding-style"
+  ],
+  "scripts": {
+    "test": "jshint ."
+  },
+  "author": "Isiah Meadows <isiahmeadows@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  },
+  "bugs": "https://github.com/impinball/eslint-config-npm/issues",
+  "homepage": "https://github.com/impinball/eslint-config-npm",
+  "files": ["index.js"],
+  "repository": "impinball/eslint-config-npm"
+}
