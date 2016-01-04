@@ -6,7 +6,7 @@ module.exports = {
     // https://docs.npmjs.com/misc/coding-style#indentation
     indent: [2, 2,
       // This is implicit in the source code
-      {indentSwitchCase: true},
+      {SwitchCase: 1},
     ],
 
     // https://docs.npmjs.com/misc/coding-style#curly-braces
