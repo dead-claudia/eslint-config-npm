@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint presets for npm's coding style",
   "keywords": [
     "eslint",
