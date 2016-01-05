@@ -21,7 +21,7 @@ module.exports = {
     'comma-style': [2, 'first'],
     'comma-spacing': 2,
     'operator-linebreak': [2, 'after'],
-    'one-var': [2, 'always'],
+    'one-var': [2, 'never'],
     'object-curly-spacing': 0,
 
     // https://docs.npmjs.com/misc/coding-style#whitespace
